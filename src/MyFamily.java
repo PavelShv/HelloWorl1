@@ -1,5 +1,5 @@
 public class MyFamily {
-
+//наконец-то получилось и все работает
         public static void main(String[] args) {
             System.out.println("Here are the names in my family: ");
             System.out.println("Pavel");
